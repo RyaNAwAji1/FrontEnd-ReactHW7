@@ -1,0 +1,30 @@
+body {
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  width: 30rem;
+}
+
+.data {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card{
+  display: flex;
+  border-radius: 5px;
+  height: 3rem;
+  background-color: #fff;
+  padding: 22px !important;
+}
+
+.card2{
+  border-radius: 5px;
+  height: 5rem;
+  background-color: #fff;
+}
